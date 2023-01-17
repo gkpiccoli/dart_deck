@@ -4,7 +4,8 @@ O App permite visualizar as cartas em dois tipos de categorias:
 
 - Deck de cartas
 - Todas as cartas
-- Menu?
+- Embaralhar as Cartas
+- Distribuir as cartas
 
 O que é possível fazer com esse aplicativo?.
 
