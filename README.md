@@ -2,10 +2,14 @@
 
 O App permite visualizar as cartas em dois tipos de categorias:
 
-- Deck de cartas
+- Carta atual
 - Todas as cartas
+
+O app também tem as seguintes funcionalidades:
+
 - Embaralhar as Cartas
 - Distribuir as cartas
+- As cartas são organizadas por número e por naipe
 
 O que é possível fazer com esse aplicativo?.
 
@@ -20,12 +24,11 @@ Para implementar o App foram utilizadas as seguintes funcionalidades e tecnologi
 - OOP
 - Classes
   - `?`
-  - `?` 
+  - `?`
   - `Function`
   - `Methods`
   - `Card`
 - ?
-
 
 ## 📁 Acesso ao projeto
 
@@ -38,7 +41,6 @@ Após baixar o projeto, você pode abrir com o VSCode. Para isso, na tela de lau
 Open an Existing Project (ou alguma opção similar)
 Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
 Por fim clique em OK
-O Android Studio deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆
+O VSCode deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆
 
-## 📚 Mais informações 
-
+## 📚 Mais informações

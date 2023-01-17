@@ -4,8 +4,4 @@ class Deck {
   String? name;
 }
 
-
-class Card {
-
-  
-}
+class Card {}
