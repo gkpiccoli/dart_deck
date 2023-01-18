@@ -7,11 +7,19 @@ O App permite visualizar as cartas em dois tipos de categorias:
 
 O app também tem as seguintes funcionalidades:
 
+Lógica utilizada: 
+
+Organização do Código:
+- Criar um baralho
+- Imprimir as cartas
 - Embaralhar as Cartas
 - Distribuir as cartas
 - As cartas são organizadas por número e por naipe
+- Trocar a carta
+- Descartar a carta
 
-O que é possível fazer com esse aplicativo?.
+
+Lógica do processo:
 
 > O App não possui lógica de cálculo ou cadastro, é apenas uma implementação focada no visual e interação de navegação.
 
