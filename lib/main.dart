@@ -1,12 +1,13 @@
-void main() {}
-
-class Deck {
-  String? name;
-  String? card;
+void main() {
+  var deck = new Deck();
 }
 
-abstract class Card {
-  name();
+class Deck {
+  late List<Card> cards;
+  String? name;
+}
+
+class Card {
   String? suit;
   String? rank;
 }
