@@ -2,7 +2,7 @@ void main() {}
 var deck = new Deck();
 
 class Deck {
-  late List<Card> cards;
+  late List<Card> cards = [];
   Deck() {
     var ranks = ['Ace', 'Two', 'Three', 'Four', 'Five'];
     var suits = ['Diamonds', 'Hearts', 'Clubs', 'Spades'];
