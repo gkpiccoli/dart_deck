@@ -21,6 +21,8 @@ Organização do Código:
 
 Lógica do processo:
 
+O baralho tem 52 cartas, das quais tem 12 naipes, 4 classes.
+
 > O App não possui lógica de cálculo ou cadastro, é apenas uma implementação focada no visual e interação de navegação.
 
 ![App Cards em execução](.gif)
@@ -52,3 +54,5 @@ Por fim clique em OK
 O VSCode deve executar algumas tasks do Gradle para configurar o projeto, aguarde até finalizar. Ao finalizar as tasks, você pode executar o App 🏆
 
 ## 📚 Mais informações
+
+O código é aberto e pode ser reproduzido ou alterado sem más intenções.
