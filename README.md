@@ -42,7 +42,7 @@ Para implementar o App foram utilizadas as seguintes funcionalidades e tecnologi
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto]()
+Você pode [acessar o código fonte do projeto](https://github.com/gkpiccoli/dart_deck)
 
 ## 🛠️ Abrir e rodar o projeto
 
