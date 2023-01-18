@@ -1,5 +1,9 @@
 void main() {
   var deck = new Deck();
+
+  Deck() {
+    
+  }
 }
 
 class Deck {
