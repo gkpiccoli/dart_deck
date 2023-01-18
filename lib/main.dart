@@ -2,6 +2,11 @@ void main() {}
 
 class Deck {
   String? name;
+  String? card;
 }
 
-class Card {}
+abstract class Card {
+  name();
+  String? suit;
+  String? rank;
+}
