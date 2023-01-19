@@ -1,3 +1,5 @@
+
+
 void main() {
   var deck = new Deck();
   print(deck);
@@ -15,6 +17,10 @@ class Deck {
         cards.add(card);
       }
     }
+  }
+
+  toString() {
+    return cards.toString();
   }
 }
 
