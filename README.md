@@ -33,11 +33,10 @@ Para implementar o App foram utilizadas as seguintes funcionalidades e tecnologi
 
 - OOP
 - Classes
-  - `?`
-  - `?`
-  - `Function`
-  - `Methods`
-  - `Card`
+  - `APIs`
+  - `Dart Libraries`
+  - 
+  
 - ?
 
 ## 📁 Acesso ao projeto
