@@ -9,14 +9,13 @@ O app também tem as seguintes funcionalidades:
 
 Lógica utilizada: 
 
-Organização do Código:
 - Criar um baralho
 - Imprimir as cartas
-- Embaralhar as Cartas
 - Distribuir as cartas
 - As cartas são organizadas por número e por naipe
-- Trocar a carta
-- Descartar a carta
+- Embaralhar as cartas
+- Trocar a cartas
+- Descartar a cartas
 
 
 Lógica do processo:
