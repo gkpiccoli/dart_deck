@@ -26,8 +26,10 @@ class Deck {
     cards.shuffle();
   }
 
-  cardsWithSuit(String suit){
-
+  cardsWithSuit(String suit) {
+    cards.where((card) {
+      return card.suit == suit;
+    });
   }
 }
 
