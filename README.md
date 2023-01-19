@@ -32,10 +32,11 @@ Para implementar o App foram utilizadas as seguintes funcionalidades e tecnologi
 
 - OOP
 - Dart Libs
-  - `APIs`
+  - `dart:core`
+- Métodos  
   - `toString`
   - `shuffle`
-  - ``
+  - `where`
   
 - ?
 
