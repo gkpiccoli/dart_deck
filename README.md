@@ -31,10 +31,11 @@ O baralho tem 52 cartas, das quais tem 12 naipes, 4 classes.
 Para implementar o App foram utilizadas as seguintes funcionalidades e tecnologias:
 
 - OOP
-- Classes
+- Dart Libs
   - `APIs`
-  - `Dart Libraries`
-  - 
+  - `toString`
+  - `shuffle`
+  - ``
   
 - ?
 
