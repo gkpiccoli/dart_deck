@@ -1,9 +1,7 @@
 void main() {
-
   var deck = new Deck();
-print(deck);
+  print(deck);
 }
-
 
 class Deck {
   late List<Card> cards = [];
@@ -18,10 +16,6 @@ class Deck {
       }
     }
   }
-
-  toString(){
-  return 'it\'s a deck bro';
-}
 }
 
 class Card {
@@ -29,6 +23,8 @@ class Card {
   String? rank;
 
   Card(this.rank, this.suit);
+
+  toString() {
+    return '$rank of $suit';
+  }
 }
-
-
