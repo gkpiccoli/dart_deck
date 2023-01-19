@@ -25,6 +25,10 @@ class Deck {
   shuffle() {
     cards.shuffle();
   }
+
+  cardsWithSuit(String suit){
+
+  }
 }
 
 class Card {
