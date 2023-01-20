@@ -22,7 +22,7 @@ Lógica do processo:
 
 O baralho tem 52 cartas, das quais tem 12 naipes, 4 classes.
 
-> O App não possui lógica de cálculo ou cadastro, é apenas uma implementação focada no visual e interação de navegação.
+> O App é uma implementação focada no visual e interação com as cartas na navegação.
 
 ![App Cards em execução](.gif)
 
