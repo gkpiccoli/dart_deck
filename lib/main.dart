@@ -29,6 +29,10 @@ class Deck {
   cardsWithSuit(String suit) {
     cards.where((card) => card.suit == suit);
   }
+
+  deal(int handSize) {
+    
+  }
 }
 
 class Card {
