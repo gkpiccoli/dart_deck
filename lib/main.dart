@@ -37,6 +37,10 @@ class Deck {
     cards = cards.sublist(handSize);
     return hand;
   }
+
+  removeWhere(){
+    
+  }
 }
 
 class Card {
