@@ -2,6 +2,8 @@ void main() {
   var deck = new Deck();
   deck.shuffle();
   print(deck);
+  print(deck.deal(5));
+  print(deck);
 }
 
 class Deck {
@@ -31,7 +33,9 @@ class Deck {
   }
 
   deal(int handSize) {
-    
+    var hand = cards.sublist(0, handSize);
+    cards = cards.sublist(handSize);
+    return hand;
   }
 }
 
