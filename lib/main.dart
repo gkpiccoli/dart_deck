@@ -38,8 +38,8 @@ class Deck {
     return hand;
   }
 
-  removeWhere(){
-    
+  removeCard(String suit, String rank){
+
   }
 }
 
