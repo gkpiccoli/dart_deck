@@ -39,6 +39,7 @@ class Deck {
   }
 
   removeCard(String suit, String rank){
+    cards.removeWhere((card) )
 
   }
 }
