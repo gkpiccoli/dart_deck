@@ -38,9 +38,8 @@ class Deck {
     return hand;
   }
 
-  removeCard(String suit, String rank){
-    cards.removeWhere((card) )
-
+  removeCard(String suit, String rank) {
+    cards.removeWhere((card) => (card.suit == suit) && (card.rank == rank));
   }
 }
 
