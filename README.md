@@ -38,7 +38,8 @@ Para implementar o App foram utilizadas as seguintes funcionalidades e tecnologi
   - `shuffle`
   - `where`
   
-- ?
+- Widgets
+  - `StatefulWidget`
 
 ## 📁 Acesso ao projeto
 
