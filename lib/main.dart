@@ -29,6 +29,8 @@ class Deck {
 
   shuffle() {
     cards.shuffle();
+    
+    //embaralha
   }
 
   cardsWithSuit(String suit) {
