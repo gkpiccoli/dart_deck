@@ -3,7 +3,7 @@ void main() {
   deck.shuffle();
   print(deck);
   print(deck.deal(5));
-  print(deck);
+  
 }
 
 class Deck {
